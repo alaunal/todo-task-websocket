@@ -26,4 +26,4 @@ apps/*.sln
 apps/*.sw?
 
 # Server ---
-apps/node_modules
+server/node_modules
